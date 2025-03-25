@@ -303,11 +303,13 @@ apt-get install -y libgl1
 
 ## Quickstart
 
+> 生成的视频结果输出在 results 目录下
+
 ### Inference
 
 Here, we provide the inference script.
 
-```
+```bash
 python -m scripts.inference --inference_config configs/inference/test.yaml
 ```
 
