@@ -273,6 +273,7 @@ Finally, these weights should be organized in `models` as follows:
 ```
 
 ### 执行命令
+
 ```bash
 # 下载 MuseTalk 权重
 wget -P models/musetalk https://hf-mirror.com/TMElyralab/MuseTalk/resolve/main/musetalk/musetalk.json
@@ -398,4 +399,8 @@ Thanks for open-sourcing!
 
 ### 感谢
 
-huggingface_hub 版本问题：https://github.com/TMElyralab/MuseTalk/issues/264#issuecomment-2703532042
+huggingface_hub 版本问题：
+https://github.com/TMElyralab/MuseTalk/issues/264#issuecomment-2703532042
+
+No such file or directory: './results/avatars/avator_1/temp.mp4'
+https://github.com/TMElyralab/MuseTalk/issues/237
